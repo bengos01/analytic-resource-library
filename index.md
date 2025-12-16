@@ -15,16 +15,16 @@ feature_row:
     url: /getting-started/
     btn_label: "Open"
     btn_class: "btn--primary"
-- image_path: /assets/images/icon-metadata.png
+ - image_path: /assets/images/icon-metadata.png
     alt: "Metadata"
-    title: "Data & Metadata Annotations"
-    excerpt: "Key notes on study-specific harmonized data"
+    title: "Data & Metadata"
+    excerpt: "Data dictionaries, schemas, provenance, and standards."
     url: /data-metadata/
     btn_label: "Open"
     btn_class: "btn--primary"
  - image_path: /assets/images/icon-tutorials.png
     alt: "Tutorials"
-    title: "Training & Tutorials"
+    title: "Tutorials"
     excerpt: "Short videos and step-by-step guides."
     url: /tutorials/
     btn_label: "Open"
