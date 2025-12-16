@@ -1,12 +1,12 @@
 ---
-title: "Open Repository Resource Hub"
+title: "HHEAR Analytic Resource Library"
 layout: splash
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/hero.jpg
-excerpt: "A centralized, easy-to-navigate set of guidance and links for working with the open data repository."
+excerpt: "A centralized, easy-to-navigate set of documentation for working with the HHEAR Data Repository."
 feature_row:
   - image_path: /assets/images/icon-getting-started.png
     alt: "Getting started"
@@ -15,25 +15,25 @@ feature_row:
     url: /getting-started/
     btn_label: "Open"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon-metadata.png
-    alt: "Metadata"
-    title: "Data & Metadata"
-    excerpt: "Data dictionaries, schemas, provenance, and standards."
-    url: /data-metadata/
-    btn_label: "Open"
-    btn_class: "btn--primary"
   - image_path: /assets/images/icon-tutorials.png
     alt: "Tutorials"
-    title: "Tutorials"
+    title: "Training & Tutorials"
     excerpt: "Short videos and step-by-step guides."
     url: /tutorials/
+    btn_label: "Open"
+    btn_class: "btn--primary"
+- image_path: /assets/images/icon-metadata.png
+    alt: "Metadata"
+    title: "Data & Metadata Annotations"
+    excerpt: "Key notes on study-specific harmonized data"
+    url: /data-metadata/
     btn_label: "Open"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/icon-examples.png
     alt: "Examples"
-    title: "Examples"
-    excerpt: "Example workflows, notebooks, and common use cases."
+    title: "Example Processing and Analytic Code"
+    excerpt: "Common programming code in R"
     url: /examples/
     btn_label: "Open"
     btn_class: "btn--primary"
@@ -53,8 +53,7 @@ feature_row2:
 
 - **Repository landing page:** [link here](https://example.org)
 - **Most-used document:** [link here](https://example.org)
-- **Office hours / help desk:** [link here](https://example.org)
 
 ## About this site
 
-This site provides **documentation and training resources** for using the repository. It does **not** host any data; it links to authoritative materials and tools maintained elsewhere.
+This site provides **documentation and training resources** for using the HHEAR Data Repository. It does **not** host any data; data can be accessed at the [HHEAR site](hheardatacenter.mssm.edu).
