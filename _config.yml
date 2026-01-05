@@ -27,6 +27,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
+    show_prev_next: false
 
 defaults:
   # All "pages" in _pages get a consistent layout & no sidebar
