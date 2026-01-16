@@ -13,7 +13,7 @@ permalink: /data-metadata/
 
 ## Core reference documents
 
-- **Master Codebook:** [link](https://example.org/data-dictionary.pdf)
+- **Master Codebook:** [link](/assets/Master_Codebook_Sorted.xlsx)
 
   The Master Codebook provides a reference of all variables and codes used across the repository, spanning all studies and all harmonized datasets. It is organized into sections to make it easier to identify the types of data available.
 Codebooks are automatically generated based on the specific studies and datasets selected for download; users should prioritize the study-specific codebook included with their download.
